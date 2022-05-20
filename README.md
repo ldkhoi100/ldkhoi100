@@ -61,15 +61,15 @@
 
 <img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
 
-<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/chao-don-nam-moi">Demo</a></p>
+<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/chao-don-nam-moi" target="_blank">Demo</a></p>
 <img src="https://i.ibb.co/sb9Dyss/share.jpg" >
 <br>
 
-<p>2️⃣.PAGE - Cửu Âm Chân Kinh Mobile - <a href="https://cuuamm.gosu.vn/giaidau/cuuamminhchu">Demo</a></p>
+<p>2️⃣.PAGE - Cửu Âm Chân Kinh Mobile - <a href="https://cuuamm.gosu.vn/giaidau/cuuamminhchu" target="_blank">Demo</a></p>
 <img src="https://i.ibb.co/tm0Lk2k/share.png" >
 <br>
 
-<p>3️⃣.Chat App - <a href="https://chat-application-product.herokuapp.com/">Demo</a></p>
+<p>3️⃣.Chat App - <a href="https://chat-application-product.herokuapp.com/" target="_blank">Demo</a></p>
 <img src="https://i.ibb.co/SmGpB4t/image.png" >
 <br>
 <hr>

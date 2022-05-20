@@ -69,18 +69,23 @@
 <img src="https://i.ibb.co/tm0Lk2k/share.png" >
 <br>
 
-<p>3️⃣.List of Blogs - <a href="https://simple-blogs-vuejs.herokuapp.com/">Demo</a></p>
-<img src="https://i.ibb.co/4jkZW4c/project.jpg" >
+<p>3️⃣.Chat App - <a href="https://chat-application-product.herokuapp.com/">Demo</a></p>
+<img src="https://i.ibb.co/SmGpB4t/image.png" >
 <br>
 <hr>
 
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 
-
 <p style="display:flex;justify-content:space-between;">
-    <a href="mailto: ldkhoi100@gmail.com" target="_blank"> <img src="https://i.ibb.co/FKqtg4q/email.png" /> </a>
-    <a href="https://www.facebook.com/demon977" target="_blank"> <img src="https://i.ibb.co/XFwHjCq/facebook.png"></a>
-    <a target="_blank" href="https://www.topcv.vn/xem-cv/UVEDDwNQA1FRBwRWBABcDAQOBFYADAIGUVEFDA545c?fbclid=IwAR1KoT1qi_42mFnlQJnYHKWCXSqfY61a5Mftqq3lyILS1xA1Q0WvGZEFVbI"> <img src="https://i.ibb.co/qBDWwSk/favorites.png" > </a>
+    <a href="mailto: ldkhoi100@gmail.com" target="_blank">
+        <img src="https://i.ibb.co/FKqtg4q/email.png" />
+    </a>
+    <a href="https://www.facebook.com/demon977" target="_blank"> 
+        <img src="https://i.ibb.co/XFwHjCq/facebook.png">
+    </a>
+    <a target="_blank" href="https://www.topcv.vn/xem-cv/UVEDDwNQA1FRBwRWBABcDAQOBFYADAIGUVEFDA545c?fbclid=IwAR1KoT1qi_42mFnlQJnYHKWCXSqfY61a5Mftqq3lyILS1xA1Q0WvGZEFVbI"> 
+        <img src="https://i.ibb.co/qBDWwSk/favorites.png"> 
+    </a>
 </p>
 
 <br/>

@@ -43,7 +43,7 @@
 <img src="https://i.ibb.co/ssn2TZK/experiences.jpg" alt="experiences"/>
 
 
-<p><b>✨GOSU Corp (06/2020 - NOW)</b> - (PHP Backend Developer)</p>
+<p><b>✨GOSU Corp (06/2020 - 05/2022)</b> - (PHP Backend Developer)</p>
 <h6>As a famous game company in Vietnam with a large number of games, for each website we will have 1 backend and 1 frontend responsible for building and testing. </h6>
 
 <ul>

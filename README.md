@@ -61,15 +61,15 @@
 
 <img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
 
-<p>1️⃣.PAGE - Game Huyền Thoại Nhẫn Giả - <a href="https://huyenthoainhangia.vn/su-kien/chao-don-nam-moi" target="_blank">Demo</a></p>
-<img src="https://i.ibb.co/sb9Dyss/share.jpg" >
+<p>1️⃣.PAGE - Game Kho Báu Truyền Thuyết - <a href="https://khobautruyenthuyet.vn/su-kien/vong-quay-may-man" target="_blank">Demo</a></p>
+<img src="https://i.ibb.co/RHRnV12/banner-share.jpg" >
 <br>
 
 <p>2️⃣.PAGE - Cửu Âm Chân Kinh Mobile - <a href="https://cuuamm.gosu.vn/giaidau/cuuamminhchu" target="_blank">Demo</a></p>
 <img src="https://i.ibb.co/tm0Lk2k/share.png" >
 <br>
 
-<p>3️⃣.NodeJs Chat App - <a href="https://chat-application-product.herokuapp.com/" target="_blank">Demo</a></p>
+<p>3️⃣.NodeJs Chat Application - <a href="https://chat-application-product.herokuapp.com/" target="_blank">Demo</a></p>
 <img src="https://i.ibb.co/SmGpB4t/image.png" >
 <br>
 <hr>
@@ -77,13 +77,13 @@
 <img src="https://i.ibb.co/G2chK4k/Free-PSD-15-Twitch.jpg" >
 
 <p style="display:flex;justify-content:space-between;">
-    <a href="mailto: ldkhoi100@gmail.com" target="_blank">
+    <a href="mailto: khoild0797@gmail.com" target="_blank">
         <img src="https://i.ibb.co/FKqtg4q/email.png" />
     </a>
     <a href="https://www.facebook.com/demon977" target="_blank"> 
         <img src="https://i.ibb.co/XFwHjCq/facebook.png">
     </a>
-    <a target="_blank" href="https://www.topcv.vn/xem-cv/UVEDDwNQA1FRBwRWBABcDAQOBFYADAIGUVEFDA545c?fbclid=IwAR1KoT1qi_42mFnlQJnYHKWCXSqfY61a5Mftqq3lyILS1xA1Q0WvGZEFVbI"> 
+    <a target="_blank" href="https://123job.vn/cv/preview/41367720ec5a8378c4844f9a0a4b1f9a"> 
         <img src="https://i.ibb.co/qBDWwSk/favorites.png"> 
     </a>
 </p>
@@ -96,6 +96,10 @@
 <p><b>✨Đại Học Khoa Học Huế (2015-2019)</b></p>
 <p><i>- Chuyên ngành: Công Nghệ Thông Tin</i><p>
 <p><img src="https://i.ibb.co/B41WBh2/image.png" alt=""></p>
+
+<p><b>✨Trung Tâm CodeGym Huế (2015-2019)</b></p>
+<p><i>- Chuyên ngành: PHP Backend Developer</i><p>
+<p><img src="https://i.ibb.co/VW68Gnv/codegymhue-hocvientotnghiep.jpg" alt=""></p>
 
 <br>
 <hr>

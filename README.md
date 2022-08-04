@@ -29,11 +29,11 @@
     </li>
 </ul>
 
-<p>✨My Notion</p>
+<p>✨My Notion:</p>
 <ul>
     <li>
         <p>Symfony Notion : <a href="https://www.notion.so/Symfony-1ba9cf2e08de4d7ea666469e4bc466de" target="_blank">Link</a> 
-        <p>NodeJs Notion : <a href="https://www.notion.so/NodeJs-bb83b6af9a5a46d8b27bfda03223351b" target="_blank">Link</a> 
+        <p>NodeJs Notion : <a href="https://www.notion.so/Nodejs-929068e5616142a2b050e5d36df57f67" target="_blank">Link</a> 
     </li>
 </ul>
 
@@ -61,15 +61,15 @@
 <img src="https://i.ibb.co/fXhqN22/lastprojects.jpg" >
 
 <p>1️⃣.PAGE - Game Kho Báu Truyền Thuyết - <a href="https://khobautruyenthuyet.vn/su-kien/vong-quay-may-man" target="_blank">Demo</a></p>
-<img src="https://i.ibb.co/RHRnV12/banner-share.jpg" >
+<p style="text-align: center;"><img src="https://i.ibb.co/RHRnV12/banner-share.jpg" ></p>
 <br>
 
 <p>2️⃣.PAGE - Cửu Âm Chân Kinh Mobile - <a href="https://cuuamm.gosu.vn/giaidau/cuuamminhchu" target="_blank">Demo</a></p>
-<img src="https://i.ibb.co/tm0Lk2k/share.png" >
+<p style="text-align: center;"><img src="https://i.ibb.co/tm0Lk2k/share.png"></p>
 <br>
 
 <p>3️⃣.NodeJs Chat Application - <a href="https://chat-application-product.herokuapp.com/" target="_blank">Demo</a></p>
-<img src="https://i.ibb.co/SmGpB4t/image.png" >
+<p style="text-align: center;"><img src="https://i.ibb.co/SmGpB4t/image.png"></p>
 <br>
 <hr>
 
@@ -93,11 +93,11 @@
 <img src="https://i.ibb.co/jJwGWGs/education.jpg" >
 
 <p><b>✨Đại Học Khoa Học Huế (2015-2019)</b></p>
-<p><i>- Chuyên ngành: Công Nghệ Thông Tin</i><p>
+<p><i>- Specialization: Công Nghệ Thông Tin</i><p>
 <p><img src="https://i.ibb.co/B41WBh2/image.png" alt=""></p>
 
 <p><b>✨Trung Tâm CodeGym Huế (2015-2019)</b></p>
-<p><i>- Chuyên ngành: PHP Backend Developer</i><p>
+<p><i>- Specialization: PHP Backend Developer</i><p>
 <p><img src="https://i.ibb.co/VW68Gnv/codegymhue-hocvientotnghiep.jpg" alt=""></p>
 
 <br>

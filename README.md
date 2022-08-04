@@ -1,5 +1,4 @@
 <h1>Hi there 👋,Welcome you come my Github </h1>
-<p>This is my portfolio</p>
 <hr>
 <p>Hi, my name <span> <b> LE DANG KHOI, 25 years old</b> </span></p>
 <p>✨I am currently working and experienced in Backend Developer position. </p>
